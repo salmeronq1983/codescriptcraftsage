@@ -1,0 +1,33 @@
+{
+  "name": "codescriptcraftsage",
+  "version": "1.0.2",
+  "description": "codescriptcraftsage",
+  "type": "module",
+  "main": "codescriptcraftsage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salmeronq1983/codescriptcraftsage"
+  },
+  "website": "https://github.com/salmeronq1983/codescriptcraftsage.git",
+  "keywords": [
+    "codescriptcraftsage"
+  ],
+  "author": "salmeronq1983",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmeronq1983/codescriptcraftsage/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/salmeronq1983/codescriptcraftsage#readme",
+  "dependencies": {
+    "devcodecraftmaster": "1.0.2",
+    "programcraftgenius": "1.0.2",
+    "devcodecraftpro": "1.0.2"
+  }
+}
